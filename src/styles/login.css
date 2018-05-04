@@ -1,0 +1,7 @@
+.parent__login {
+  display: grid;
+}
+
+.child__login {
+  margin: auto;
+}
